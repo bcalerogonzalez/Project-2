@@ -1,11 +1,9 @@
-html {
-	background-color: Azure;
-}
 body {
+	background-color: rgb(34, 78, 107);
 	text-align: center;
 	font-family: 'PT Sans', cursive;
 	text-align: center;
-	color: black;
+	color: white;
 }
 img {
 	max-width:100%;
@@ -57,7 +55,7 @@ section
   padding:0;
   margin:0;
   overflow: auto;
-  background: Azure;
+  background: rgb(34, 78, 107);
 }
 .left{
   float:left;
