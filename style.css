@@ -1,44 +1,94 @@
 body {
-	background-color: rgb(34, 78, 107); 
-
+	text-align: center;
+	font-family: 'PT Sans', cursive;
+	text-align: center;
+	color: black;
+	background-color: Azure;
 }
-
-img.resize {
-	max-width: 40%;
-	max-height: 40%;
+img {
+	max-width:100%;
+  height:auto;
+  max-height:100%;
 }
+homepage {
+	
 h1 {
-    font-family: 'Josefin Sans', sans-serif;
-	font-size: 40px;
-	color: white;
+	text-align: left;
+	font-family: 'PT Sans', cursive;
+	font-size: 4em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 600;
 }
- th, td {
-   font-family: 'Lato', sans-serif;
-   font-size: 15px;
-   color: white;
-   padding: 4px;
-   border-bottom: 1px solid #ddd;
+h2 {
+	text-align: left;
+	font-family: 'PT Sans', cursive;
+	font-size: 3em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
 }
-
-.headerrow{
-	background-color: rgb(41, 207, 182);
-
+h3 {
+	text-align: left;
+	font-family: 'PT Sans', cursive;
+	font-size: 2em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
 }
-.one {
-	background-color: #255474;
+p {
+	text-align: left;
+	font-family: 'PT Sans', cursive;
+	font-size: 1em;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 200;
+	line-height: 1.5em;
 }
-.two {
-	background-color: #31719b;
+ul li {
+	font-family:'PT Sans', cursive;
+	text-align: left;
+	list-style-type: none;
+	padding: 0;
+    overflow: hidden;
 }
-.three {
-	background-color: #3d8dc2;
+section
+{
+  padding:0;
+  margin:0;
+  overflow: auto;
+  background: Azure;
 }
-.four {
-	background-color: #64a4ce;
+.left{
+  float:left;
 }
-.source_link{
-	color: white;
-	font-size: 12px;
-	font-style: italic;
-    font-family: 'Josefin Sans', sans-serif;
+#experience, #skills
+{
+  padding-left: 25px;
+  text-align: left;
+}
+#experience h4, #skills h4
+{
+  padding-left: 20px;
+  text-align: left;
+}
+#experience p, #skills p
+{
+  padding-left: 100px;
+  text-align: left;
+}
+#experience ul, #skills ul
+{
+  padding-left: 60px;
+  text-align: left;
+}
+iframe 
+{
+  border: none;
+  display: block;
+  height: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+  width: 700px;
 }
