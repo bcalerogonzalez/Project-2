@@ -3,7 +3,7 @@ html {
 }
 body {
 	text-align: center;
-	font-family: 'PT Sans', cursive;
+	font-family: "Times New Roman", Times, serif;
 	text-align: center;
 	color: blue;
 }
@@ -14,7 +14,7 @@ img {
 }
 h1 {
 	text-align: left;
-	font-family: 'PT Sans', cursive;
+	font-family: "Times New Roman", Times, serif;
 	font-size: 4em;
 	font-style: normal;
 	font-variant: normal;
@@ -22,7 +22,7 @@ h1 {
 }
 h2 {
 	text-align: left;
-	font-family: 'PT Sans', cursive;
+	font-family: "Times New Roman", Times, serif;
 	font-size: 3em;
 	font-style: normal;
 	font-variant: normal;
@@ -30,7 +30,7 @@ h2 {
 }
 h3 {
 	text-align: left;
-	font-family: 'PT Sans', cursive;
+	font-family: "Times New Roman", Times, serif;
 	font-size: 2em;
 	font-style: normal;
 	font-variant: normal;
@@ -38,7 +38,7 @@ h3 {
 }
 p {
 	text-align: left;
-	font-family: 'PT Sans', cursive;
+	font-family: "Times New Roman", Times, serif;
 	font-size: 1em;
 	font-style: normal;
 	font-variant: normal;
@@ -46,7 +46,7 @@ p {
 	line-height: 1.5em;
 }
 ul li {
-	font-family:'PT Sans', cursive;
+	font-family: "Times New Roman", Times, serif;
 	text-align: left;
 	list-style-type: none;
 	padding: 0;
