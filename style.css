@@ -1,17 +1,17 @@
+html {
+	background-color: Gray;
+}
 body {
-	text-align: left;
+	text-align: center;
 	font-family: 'PT Sans', cursive;
 	text-align: center;
-	color: black;
-	background-color: Grey;
+	color: blue;
 }
 img {
 	max-width:100%;
-  height:auto;
-  max-height:100%;
+   	height:auto;
+   	max-height:100%;
 }
-homepage {
-	
 h1 {
 	text-align: left;
 	font-family: 'PT Sans', cursive;
@@ -57,7 +57,7 @@ section
   padding:0;
   margin:0;
   overflow: auto;
-  background: Azure;
+  background: Gray;
 }
 .left{
   float:left;
