@@ -5,23 +5,23 @@ body {
   background-color: black;
 }
 h1 {
-  color: white;
+  color: blue;
   font-family: 'Eras Medium ITC';
 }
 h3 {
-  color: white;
+  color: blue;
   font-family: 'Eras light ITC';
 }
 p {
-  color: white;
+  color: blue;
   font-family: 'Eras demi ITC';
 }
 h2 {
-  color: white;
+  color: blue;
   font-family: 'Felix Titling';
 }
 li {
-  color: white;
+  color: blue;
   font-family: 'Century Gothic';
 }
 #navigation ul {
@@ -37,7 +37,7 @@ li {
 }
 #navigation li a {
   display: block;
-  color: white;
+  color: blue;
   text-align: left;
   padding: 5px;
   text-decoration: none;
@@ -47,7 +47,7 @@ li {
 }
 .olu {
   background-color: #FF69B4;
-  color: white;
+  color: blue;
 }
 
 #title {
